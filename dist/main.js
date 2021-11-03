@@ -22,7 +22,7 @@ const EXT_DETAIL = [
         id : 4,
         name: 'Ashok Basnet',
         designation: 'Manager-Broadcast Operations and Engineering',
-        extNo: '405'
+        extNo: '103'
     },
     
     {
@@ -42,7 +42,7 @@ const EXT_DETAIL = [
     {
         id : 7,
         name: 'Banita Munaankarmi',
-        designation: 'HT and Admin Assistant',
+        designation: 'HR and Admin Assistant',
         extNo: '308'
     },
     
