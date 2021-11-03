@@ -427,7 +427,150 @@ const EXT_DETAIL = [
         designation: 'After Sales Co-ordinator',
         extNo: '119'
     },
-
+    {
+        id: 68,
+        name: 'Shyam Kumar Thapa',
+        designation: 'Assistant Manager-Accounts',
+        extNo: '115'
+    },
+    {
+        id: 69,
+        name: 'Siddhi Shrestha/MCR Marketing',
+        designation: 'Junior Video Editor',
+        extNo: '317'
+    },
+    {
+        id: 70,
+        name: 'Sushila, sangita, sarlta, Manisha',
+        designation: 'SMS Support',
+        extNo: '203'
+    },
+    {
+        id: 71,
+        name: 'SOM R Thike',
+        designation: 'Assistant manager-Accounts',
+        extNo: '114'
+    },
+    {
+        id: 72,
+        name: 'Subash Dhungana',
+        designation: 'Assistant Manager-Sales',
+        extNo: '211'
+    },
+    {
+        id: 73,
+        name: 'Subash Thapa Magar',
+        designation: 'Administration Officer',
+        extNo: '307'
+    },
+    {
+        id: 74,
+        name: 'Sudeep Acharya',
+        designation: 'Managing Director',
+        extNo: '301'
+    },
+    {
+        id: 75,
+        name: 'Sudeep Gautam/Pranav Khadka',
+        designation: 'Corporate Sales/MDU',
+        extNo: '215'
+    },
+    {
+        id: 76,
+        name: 'Sudip P.Bhattrai',
+        designation: 'Sales Manager',
+        extNo: '208'
+    },
+    {
+        id: 77,
+        name: 'Sujit Karki',
+        designation: 'Associate Store Officer',
+        extNo: '109'
+    },
+    {
+        id: 78,
+        name: 'Suluja Sharma',
+        designation: 'Asst. Manager-SMS&CAS',
+        extNo: '413'
+    },
+    {
+        id: 79,
+        name: 'Sunita Das/Rasmila kc',
+        designation: 'Supervisor Team',
+        extNo: '202'
+    },
+    {
+        id: 80,
+        name: 'Seven Willig',
+        designation: 'COO',
+        extNo: '302'
+    },
+    {
+        id: 81,
+        name: 'Toll Free Unit',
+        designation: '',
+        extNo: '201'
+    },
+    {
+        id: 82,
+        name: 'Training Room-Top Floor',
+        designation: '',
+        extNo: '482'
+    },
+    {
+        id: 83,
+        name: 'Ujjwol Neupane',
+        designation: 'Area Sales Manager',
+        extNo: '213'
+    },
+    {
+        id: 84,
+        name: 'Sabin B/RK Shrestha',
+        designation: 'DVB Engineer/IT & SMS Engineer',
+        extNo: '601'
+    },
+    {
+        id: 85,
+        name: 'Chandra Shekar Sharma',
+        designation: 'IT & SMS Engineer',
+        extNo: '602'
+    },
+    {
+        id: 86,
+        name: 'Basu Basnet/Ghanshyam Kshetri',
+        designation: 'DVB Engineer',
+        extNo: '603'
+    },
+    {
+        id: 87,
+        name: 'Prakash Bhusal/Shob Adhikari',
+        designation: 'DVB Engineer',
+        extNo: '604'
+    },
+    {
+        id: 88,
+        name: 'Bipal Thapa/Rajesh Maharjan',
+        designation: 'Finance Officer/Account Assistant',
+        extNo: '605'
+    },
+    {
+        id: 89,
+        name: 'Govind K. sah',
+        designation: 'Account and Admin Assistant',
+        extNo: '606'
+    },
+    {
+        id: 90,
+        name: 'Sanjay K Sahoo',
+        designation: 'Project Manager',
+        extNo: '609'
+    },
+    {
+        id: 91,
+        name: 'Bhoj Yadav/Brahma Thakur',
+        designation: 'ISP Project',
+        extNo: '608'
+    },
 
 ]
 
