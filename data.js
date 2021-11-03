@@ -313,5 +313,120 @@ const EXT_DETAIL = [
         designation: 'Motion Graphics Designer',
         extNo: '318'
     },
+    {
+        id: 49,
+        name: 'Peshal Kumar Dahal',
+        designation: 'Assistant Manager - Legal',
+        extNo: '104'
+    },
+    {
+        id: 50,
+        name: 'Pooja Bhattarai',
+        designation: 'Senior CS Officer',
+        extNo: '126'
+    },
+    {
+        id: 51,
+        name: 'Pramik Serchan',
+        designation: 'DGM-Earthstation',
+        extNo: '404'
+    },
+    {
+        id: 52,
+        name: 'Rajat Thapa',
+        designation: 'Officer- Graphics Designer',
+        extNo: '311'
+    },
+    {
+        id: 53,
+        name: 'Rajiv Bastola',
+        designation: 'Senior System Officer',
+        extNo: '417'
+    },
+    {
+        id: 54,
+        name: 'Ram Kumar Regmi',
+        designation: 'Office Supervisor',
+        extNo: '320'
+    },
+    {
+        id: 55,
+        name: 'Ramesh Sapkota',
+        designation: 'GM-Sales',
+        extNo: '207'
+    },
+    {
+        id: 56,
+        name: 'RF Room',
+        designation: '',
+        extNo: '415'
+    },
+    {
+        id: 57,
+        name: 'Sabin Maharjan',
+        designation: 'DGM-After Sales and CS',
+        extNo: '116'
+    },
+    {
+        id: 58,
+        name: 'Sabin Maharjan(Dangol)',
+        designation: 'Customer Support Manager',
+        extNo: '117'
+    },
+    {
+        id: 59,
+        name: 'Sachin Basyal',
+        designation: 'GM-Technical Operation',
+        extNo: '408'
+    },
+    {
+        id: 60,
+        name: 'Sanjay P Rajbhandary',
+        designation: 'DGM-Marketing',
+        extNo: '309'
+    },
+    {
+        id: 61,
+        name: 'Santosh K Thakur',
+        designation: 'Network and security Architect',
+        extNo: '411'
+    },
+    {
+        id: 62,
+        name: 'Santosh Rijal',
+        designation: 'Manager Accounts',
+        extNo: '112'
+    },
+    {
+        id: 63,
+        name: 'Sapana Rana Magar',
+        designation: 'Senior Accounts Assistant',
+        extNo: '123'
+    },
+    {
+        id: 64,
+        name: 'Sarita Raut',
+        designation: 'Procurement & Logistics Assistant',
+        extNo: '106'
+    },
+    {
+        id: 65,
+        name: 'Sawara Dahal',
+        designation: 'SMS support Engineer',
+        extNo: '423'
+    },
+    {
+        id: 66,
+        name: 'Assistant CS Supervisor',
+        designation: 'Assistant CS Supervisor',
+        extNo: '204'
+    },
+    {
+        id: 67,
+        name: 'Shankhar Basnet',
+        designation: 'After Sales Co-ordinator',
+        extNo: '119'
+    },
+
 
 ]
