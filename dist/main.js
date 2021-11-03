@@ -336,8 +336,8 @@ tbody.innerHTML = tbody_content;
 const inputbox = document.querySelector('#search_text');
 inputbox.addEventListener('keyup', (e) =>{
     e.preventDefault();
-    let search_text = inputbox.value; 
-    let result  = EXT_DETAIL.filter(item => item.name.includes(search_text) || item.designation.includes(search_text))
+    let search_text = inputbox.value.toLowerCase(); 
+    let result  = EXT_DETAIL.filter(item => item.name.toLowerCase().includes(search_text) || item.designation.toLowerCase().includes(search_text))
     tbody_content = '<tr>';
     result.forEach((item)=>{
         tbody_content += '<td>';
